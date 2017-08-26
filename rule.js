@@ -10,7 +10,7 @@ function breakIt()
 
 
 
-//Soll den String in einzelne Buchstaben unterteilen
+//Splits the string in separated characters
 function split(i)
 {
 	//Preparing all Elements 
